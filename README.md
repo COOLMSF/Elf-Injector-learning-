@@ -9,6 +9,6 @@ Run / reset files
         
 usage
 
-        ./injector target payload2
+        ./injector target payload
         
        
