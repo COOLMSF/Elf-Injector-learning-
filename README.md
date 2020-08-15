@@ -2,11 +2,13 @@
 
 
 
-Run
+Run / reset files
+
         ./compile
         
         
 usage
+
         ./injector target payload2
         
        
